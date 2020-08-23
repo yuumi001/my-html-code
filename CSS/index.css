@@ -1,0 +1,32 @@
+h1 {
+	color: blueviolet;
+	}
+
+#menu {
+	background-color: orangered;
+	width: 100%
+	height: 300px;
+	padding: 10px 20px;
+}
+
+.item {
+		width: 100%
+		background-color: green;
+		color: rgba(46, 204, 113, .4);
+}
+.text p {
+	color: rgba(46,103,225,1);
+	text-align: center;
+	text-decoration: underline;
+	text-transform: lowercase;
+	text-indent: 10px; /*can le dong dau tien*/
+	letter-spacing: 4px;
+}
+/*font style*/
+html {
+	font-family: -apple-system ;
+	font-size: 20px;
+}
+.content {
+	font-weight: lighter;
+}

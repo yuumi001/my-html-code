@@ -1,0 +1,57 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	font-family: -apple-system
+}
+.choice {
+	background-color: white;
+	box-shadow: 0 0 10px 0 rgba(190,190,206,.26);
+	width: 90%
+	height: 100px;
+	padding: 20px;
+	border-radius: 5px;
+	margin-left: 50px;
+}
+
+.image {
+	width: 20%;
+	height: 100%;
+		float : left;
+}
+
+.album {
+	width: 20%;
+	height: 100%;
+	background-color: white; 
+	border-right: 0 7px solid #eeeeee;
+	float : left;
+}
+
+.album-name {
+	font-weight: bold;
+}
+
+.item {
+	width: 100%
+	background-color: white;
+}
+
+.album-item-count{
+	margin-top: 50px;
+	font-size: 13px;
+	font-style: italic;
+	color: #eeeeee;
+}
+
+.list {
+	padding: 5px 0px;
+	margin: 40px;
+	float: left;
+}
+
+.item {
+	list-style: none;
+}
